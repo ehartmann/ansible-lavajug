@@ -1,0 +1,6 @@
+---
+sonarqube_test:
+  jdbc_schema: sonarqube
+  jdbc_user: sonarqube
+  jdbc_password: sonarqube
+  jdbc_url: jdbc:postgresql://server2/sonarqube

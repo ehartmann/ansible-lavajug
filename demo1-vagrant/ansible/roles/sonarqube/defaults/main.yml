@@ -1,0 +1,5 @@
+---
+# defaults file for sonarqube
+sonarqube_java_command: /opt/jdk1.8.0_77/bin/java
+sonarqube_user: sonarqube
+sonarqube_group: sonarqube

@@ -1,0 +1,4 @@
+---
+- name: restart sonarqube
+  become: True
+  service: name=sonarqube state=restarted

@@ -1,0 +1,35 @@
+---
+- name: Install Postgresql
+  hosts: server2
+
+  roles:
+    - role: postgresql
+      postgresql_user: "{{ sonarqube_test.jdbc_user }}"
+      postgresql_password: "{{ sonarqube_test.jdbc_password }}"
+      postgresql_db: "{{ sonarqube_test.jdbc_schema }}"
+
+  tasks:
+    - name: Set hostname
+      become: True
+      hostname: name=server2
+
+- name: Install SonarQube
+  hosts: server1
+
+  roles:
+    - role: sonarqube
+      sonarqube_jdbc_url: "{{ sonarqube_test.jdbc_url }}"
+      sonarqube_jdbc_user: "{{ sonarqube_test.jdbc_user }}"
+      sonarqube_jdbc_password: "{{ sonarqube_test.jdbc_password }}"
+    
+  tasks:
+    - name: Set hostname
+      become: True
+      hostname: name=server1
+
+
+
+
+  
+
+

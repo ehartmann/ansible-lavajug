@@ -1,0 +1,16 @@
+[Unit]
+Description=SonarQube Service
+After=network.target
+
+[Service]
+Type=forking
+User={{ sonarqube_user }}
+Group={{ sonarqube_group }}
+ExecStart=/opt/sonarqube-5.5-RC1/bin/linux-x86-64/sonar.sh start
+ExecStop=/opt/sonarqube-5.5-RC1/bin/linux-x86-64/sonar.sh stop
+ExecReload=/opt/sonarqube-5.5-RC1/bin/linux-x86-64/sonar.sh restart
+PIDFile=/opt/sonarqube-5.5-RC1/bin/linux-x86-64/SonarQube.pid
+Type=forking
+
+[Install]
+WantedBy=multi-user.target

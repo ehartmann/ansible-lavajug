@@ -1,0 +1,39 @@
+---
+- name: Install postgresql-server
+  become: True
+  yum: name=postgresql-server,python-psycopg2 state=installed
+
+- name: Initialize the database
+  become: True
+  shell: postgresql-setup initdb
+  ignore_errors: True
+
+- name: Update pg_hba.conf
+  become: True
+  copy: src=pg_hba.conf dest=/var/lib/pgsql/data
+  notify:
+    - restart postgresql
+
+- name: Update the listener
+  become: True
+  replace: dest='/var/lib/pgsql/data/postgresql.conf' regexp="^(.*listen_addresses.*)$" replace="listen_addresses = '*'"
+  notify:
+    - restart postgresql
+
+- name: Start postgresql
+  become: True
+  service: name=postgresql state=started enabled=true
+
+- name: Create database
+  become: True
+  become_user: postgres
+  postgresql_db: name="{{ postgresql_db }}"
+                 encoding='UTF-8'
+
+- name: Create user
+  become: True
+  become_user: postgres
+  postgresql_user: db="{{ postgresql_db }}" name={{ postgresql_user }} password={{ postgresql_password }} priv=ALL
+
+- name: Ensure that postgresql has been started
+  service: name=postgresql state=started enabled=true

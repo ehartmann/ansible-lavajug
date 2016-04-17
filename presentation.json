@@ -1,0 +1,1448 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 444,
+          "y": 337,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#bfbfbf\">Chef</font>",
+          "size": 72,
+          "selected": false,
+          "rotate": 1.57
+        },
+        {
+          "TextBox": {},
+          "x": 94,
+          "y": 513,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#b7b6b6\">Puppet</font>",
+          "size": 64,
+          "selected": false,
+          "rotate": 1.57
+        },
+        {
+          "TextBox": {},
+          "x": 170,
+          "y": 358,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#bfbfbf\">SaltStack</font>",
+          "size": 72,
+          "selected": false,
+          "rotate": -1.57
+        },
+        {
+          "TextBox": {},
+          "x": 604,
+          "y": 396,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#bfbfbf\">CFengine</font>",
+          "size": 72,
+          "selected": false,
+          "rotate": -3.14
+        },
+        {
+          "TextBox": {},
+          "x": 453,
+          "y": 202,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<i>@eric_hartmann</i>",
+          "size": 36,
+          "selected": false
+        },
+        {
+          "src": "https://www.ansible.com/hubfs/2016_Images/Assets/Ansible-Wordmark-Large-RGB-Black.png?t=1459538792412",
+          "type": "Image",
+          "x": 62,
+          "y": 65,
+          "scale": {
+            "x": 0.5044444444444445,
+            "y": 0.5044444444444445,
+            "width": 454,
+            "height": 174.5377777777778
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 180,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 205,
+          "y": 346,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#333333\">Infrastructure as code</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 212,
+      "y": 233
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/8I7JFyK.png",
+          "type": "Image",
+          "x": 59,
+          "y": 184,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 180,
+      "y": 400,
+      "surface": "bg-default"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#333333\">Virtualisation, cloud, containers</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/g644Xh9.png",
+          "type": "Image",
+          "x": 48,
+          "y": 488,
+          "scale": {
+            "x": 0.7822931785195938,
+            "y": 0.7822931785195938,
+            "width": 539.0000000000001,
+            "height": 225.30043541364302
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/PNPBm92.png",
+          "type": "Image",
+          "x": 38,
+          "y": 157,
+          "scale": {
+            "x": 0.7417910447761195,
+            "y": 0.7417910447761195,
+            "width": 497.00000000000006,
+            "height": 229.95522388059703
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/40B6XJ8.png",
+          "type": "Image",
+          "x": 569,
+          "y": 253,
+          "scale": {
+            "x": 0.4326171875,
+            "y": 0.4326171875,
+            "width": 443,
+            "height": 314.9453125
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.12,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 200,
+      "y": 580
+    },
+    {
+      "components": [
+        {
+          "src": "http://images.clipartpanda.com/lightning-bolt-clipart-RTA6B58TL.png",
+          "type": "Image",
+          "x": 438,
+          "y": 293,
+          "scale": {
+            "x": 0.36956521739130427,
+            "y": 0.4887452557213183,
+            "width": 101.99999999999997,
+            "height": 146.13483146067415
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "rotate": 0.12
+        },
+        {
+          "src": "http://i.imgur.com/YCdSsaS.png",
+          "type": "Image",
+          "x": 87,
+          "y": 200,
+          "scale": {
+            "x": 0.751953125,
+            "y": 0.751953125,
+            "width": 385,
+            "height": 385
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/zSb6W32.png",
+          "type": "Image",
+          "x": 560,
+          "y": 200,
+          "scale": {
+            "x": 1.7766497461928932,
+            "y": 1.7766497461928932,
+            "width": 349.99999999999994,
+            "height": 374.87309644670046
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.24,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 220,
+      "y": 760
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 155,
+          "y": 188,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<ul><li><span style=\"line-height: normal;\"><b>Affronter les peurs</b></span></li><li><span style=\"line-height: normal;\"><b>Aider</b> au changement,</span><br></li><li><span style=\"line-height: normal;\">Générer de la <b>plus value</b>,</span></li><li><b style=\"line-height: normal;\">Baby steps</b><br></li><li><span style=\"line-height: normal;\">Fournir un <b>self-service</b></span></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.37,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 240,
+      "y": 940
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#333333\">Une brève histoire...</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 249,
+          "y": 192,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#333333\">CFEngine &nbsp; &nbsp; 23 ans<br>Puppet &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 11 ans<br>Chef &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;8 ans<br>Ansible &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;4 ans<br>SaltStack &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;4 ans<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.61,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 260,
+      "y": 1120
+    },
+    {
+      "components": [
+        {
+          "src": "https://www.ansible.com/hubfs/2016_Images/Assets/Ansible-Wordmark-Large-RGB-Black.png?t=1459538792412",
+          "type": "Image",
+          "x": 285,
+          "y": 297,
+          "scale": {
+            "x": 0.5044444444444445,
+            "y": 0.5044444444444445,
+            "width": 454,
+            "height": 174.5377777777778
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.73,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 280,
+      "y": 1300
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#333333\">Pourquoi Ansible ?</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/pe9Oa54.png",
+          "type": "Image",
+          "x": 190,
+          "y": 141,
+          "scale": {
+            "x": 1.4853273137697518,
+            "y": 1.4853273137697518,
+            "width": 658,
+            "height": 509.4672686230249
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/RedHat.svg/1280px-RedHat.svg.png",
+          "type": "Image",
+          "x": 25,
+          "y": 627,
+          "scale": {
+            "x": 0.284375,
+            "y": 0.284375,
+            "width": 364,
+            "height": 117.44687499999999
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 849,
+          "y": 63,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font>2.0</font>",
+          "selected": false,
+          "rotate": 0.6
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 540,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "src": "https://ee5817f8e2e9a2e34042-3365e7f0719651e5b8d0979bce83c558.ssl.cf5.rackcdn.com/python.png",
+          "type": "Image",
+          "x": 105,
+          "y": 64,
+          "scale": {
+            "x": 0.223,
+            "y": 0.223,
+            "width": 223,
+            "height": 223
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://jinja.pocoo.org/docs/dev/_static/jinja-small.png",
+          "type": "Image",
+          "x": 649,
+          "y": 80,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/L5iBJvQ.png",
+          "type": "Image",
+          "x": 121,
+          "y": 428,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/SSH_Communications_Security_logo.svg",
+          "type": "Image",
+          "x": 633,
+          "y": 389,
+          "scale": {
+            "width": 292.14043397592945,
+            "height": 139.5084689592085
+          },
+          "imageType": "SVG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 60,
+          "y": 276,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#333333\">Python 2.6 / 2.7</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 676,
+          "y": 276,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#333333\">Jinja 2</font>",
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/2000px-JSON_vector_logo.svg.png",
+          "type": "Image",
+          "x": 458,
+          "y": 607,
+          "scale": {
+            "x": 0.04650000000000007,
+            "y": 0.04650000000000007,
+            "width": 93.00000000000014,
+            "height": 93.00000000000014
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 800,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 179,
+          "y": 264,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<ul><li><span style=\"line-height: normal;\">\"Single Point of Truth\"</span><br></li><li><span style=\"line-height: normal;\">Statique ou dynamique</span></li></ul>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#333333\">Inventaire</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 1060,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#333333\">Inventaire</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/A1vwtzj.png",
+          "type": "Image",
+          "x": 9,
+          "y": 118,
+          "scale": {
+            "x": 0.7108603667136814,
+            "y": 0.7108603667136814,
+            "width": 1008.0000000000001,
+            "height": 634.0874471086038
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 1320,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#333333\">Inventaire</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/WnvTwwI.png",
+          "type": "Image",
+          "x": 140,
+          "y": 108,
+          "scale": {
+            "x": 0.7146974063400577,
+            "y": 0.7146974063400577,
+            "width": 744.0000000000001,
+            "height": 627.5043227665707
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 1580,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#333333\">Inventaire</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/DWdtnxr.png",
+          "type": "Image",
+          "x": 113,
+          "y": 119,
+          "scale": {
+            "x": 0.9738717339667459,
+            "y": 0.9738717339667459,
+            "width": 820,
+            "height": 646.6508313539192
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 1840,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#333333\">Modules</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 319,
+          "y": 149,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<ul><li><span style=\"line-height: normal;\">Tâche Ant</span><br></li><li><span style=\"line-height: normal;\">513 modules</span></li><li><span style=\"line-height: normal;\">Extensible</span></li></ul>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/X9ORlAk.png",
+          "type": "Image",
+          "x": 8,
+          "y": 462,
+          "scale": {
+            "x": 1.0484037075180226,
+            "y": 1.0484037075180226,
+            "width": 1017.9999999999999,
+            "height": 153.0669412976313
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 2100,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#333333\">Playbook</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/RAyPLHF.png",
+          "type": "Image",
+          "x": 3,
+          "y": 160,
+          "scale": {
+            "x": 0.5392364793213149,
+            "y": 0.5392364793213149,
+            "width": 1016.9999999999999,
+            "height": 411.9766702014846
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "x": 2360,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/R2YcqFG.png",
+          "type": "Image",
+          "x": 2,
+          "y": 134,
+          "scale": {
+            "x": 0.7786259541984732,
+            "y": 0.7786259541984732,
+            "width": 1020,
+            "height": 500.6564885496183
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#333333\">Playbook</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "x": 2620,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#333333\">Playbook</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/tqqGCp6.png",
+          "type": "Image",
+          "x": 8,
+          "y": 235,
+          "scale": {
+            "x": 0.530471648118707,
+            "y": 0.530471648118707,
+            "width": 1001,
+            "height": 313.5087440381558
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "x": 2880,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#333333\">Les tests</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/dJ99KnD.png",
+          "type": "Image",
+          "x": 0,
+          "y": 160,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 18,
+      "selected": false,
+      "active": false,
+      "x": 3140,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#333333\">Les tests</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/plyptaU.png",
+          "type": "Image",
+          "x": 12,
+          "y": 245,
+          "scale": {
+            "x": 0.8169129720853858,
+            "y": 0.8169129720853858,
+            "width": 994.9999999999999,
+            "height": 325.94827586206895
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 19,
+      "selected": false,
+      "active": false,
+      "x": 3400,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#333333\">Les boucles</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/0a4XmMU.png",
+          "type": "Image",
+          "x": 32,
+          "y": 160,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/OX7ysWL.png",
+          "type": "Image",
+          "x": 306,
+          "y": 500,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 20,
+      "selected": false,
+      "active": false,
+      "x": 3660,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#333333\">Les templates</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/8ZFDkOf.png",
+          "type": "Image",
+          "x": 3,
+          "y": 166,
+          "scale": {
+            "x": 0.5545205479452054,
+            "y": 0.5545205479452054,
+            "width": 1011.9999999999999,
+            "height": 454.70684931506844
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 21,
+      "selected": false,
+      "active": false,
+      "x": 3920,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#333333\">Les rôles</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/4wWKL3N.png",
+          "type": "Image",
+          "x": 2,
+          "y": 149,
+          "scale": {
+            "x": 1.167832167832168,
+            "y": 1.167832167832168,
+            "width": 334,
+            "height": 486.98601398601403
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/cmWK6Hh.png",
+          "type": "Image",
+          "x": 343,
+          "y": 211,
+          "scale": {
+            "x": 1.1019736842105263,
+            "y": 1.1019736842105263,
+            "width": 670,
+            "height": 347.1217105263158
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 22,
+      "selected": false,
+      "active": false,
+      "x": 4180,
+      "y": 179
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/BDCUkxQ.png",
+          "type": "Image",
+          "x": 347,
+          "y": 16,
+          "scale": {
+            "x": 0.7557077625570776,
+            "y": 0.7557077625570776,
+            "width": 331,
+            "height": 742.8607305936073
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 23,
+      "selected": false,
+      "active": false,
+      "x": 4440,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 427,
+          "y": 346,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#333333\">Démo</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 24,
+      "selected": false,
+      "active": false,
+      "x": 4700,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#333333\">Les tests</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 80,
+          "y": 220,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<ul><li><span style=\"line-height: normal;\">VMs</span></li><li><span style=\"line-height: normal;\">Packer / Vagrant</span></li><li><span style=\"line-height: normal;\">Attention à docker !</span></li><li><span style=\"line-height: normal;\">Utilisation de Kitchen</span></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 25,
+      "selected": false,
+      "active": false,
+      "x": 800,
+      "y": 380
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font>Kitchen</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 100,
+          "y": 200,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<ul><li><span style=\"line-height: normal;\">Drivers</span><br></li><li><span style=\"line-height: normal;\">Plateformes</span><br></li><li><span style=\"line-height: normal;\">Provisioners</span><br></li><li><span style=\"line-height: normal;\">Test suites</span><br></li></ul><font></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 26,
+      "selected": false,
+      "active": false,
+      "x": 1060,
+      "y": 380
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#333333\">Quelques pièges</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 100,
+          "y": 200,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<ul><li><span style=\"line-height: normal;\">sudoers : requiretty,</span><br></li><li><span style=\"line-height: normal;\">hook git avec Vault à éviter,</span></li><li><span style=\"line-height: normal;\">Syntaxe YAML</span></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 27,
+      "selected": false,
+      "active": false,
+      "x": 1320,
+      "y": 380
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#333333\">https://galaxy.ansible.com/</font>",
+          "selected": true
+        },
+        {
+          "TextBox": {},
+          "x": 80,
+          "y": 280,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<ul><li><span style=\"line-height: normal;\">Collections de rôles</span><br></li><li><span style=\"line-height: normal;\">CLI</span></li><li><span style=\"line-height: normal;\">Utilisation de git/hg</span></li><li><span style=\"line-height: normal;\">tar.gz</span></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 28,
+      "selected": false,
+      "active": true,
+      "x": 1580,
+      "y": 380
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 484,
+          "y": 262,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 144,
+          "text": "<font color=\"#333333\">?</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 29,
+      "selected": false,
+      "active": false,
+      "x": 1840,
+      "y": 380
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/eWG1Ln4.png",
+          "type": "Image",
+          "x": 60,
+          "y": 60,
+          "scale": {
+            "x": 0.8380281690140845,
+            "y": 0.8380281690140845,
+            "width": 357,
+            "height": 309.2323943661972
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 74,
+          "y": 416,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#333333\"><i>@eric_hartmann<br>eric.hartmann@sonarsource.com<br></i>https://github.com/ehartmann<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 30,
+      "selected": false,
+      "active": false,
+      "x": 2120,
+      "y": 380
+    }
+  ],
+  "background": "bg-transparent",
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 40,
+        "y": 40,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 64,
+        "text": "<font color=\"#333333\">https://galaxy.ansible.com/</font>",
+        "selected": true
+      },
+      {
+        "TextBox": {},
+        "x": 80,
+        "y": 280,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 64,
+        "text": "<ul><li><span style=\"line-height: normal;\">Collections de rôles</span><br></li><li><span style=\"line-height: normal;\">CLI</span></li><li><span style=\"line-height: normal;\">Utilisation de git/hg</span></li><li><span style=\"line-height: normal;\">tar.gz</span></li></ul>",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 28,
+    "selected": false,
+    "active": true,
+    "x": 1580,
+    "y": 380
+  },
+  "fileName": "presentation-unnamed",
+  "surface": "img:http://pkoperek.github.io/bytecode-presentation/img/paper_fibers.png",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 2440,
+  "overviewY": 739.5
+}

@@ -1,0 +1,50 @@
+---
+# tasks file for sonarqube
+- name: Create group SonarQube
+  become: True
+  group: name="{{ sonarqube_group }}" state=present
+
+- name: Create user SonarQube
+  become: True
+  user: name="{{ sonarqube_user }}" group="{{ sonarqube_group }}" state=present
+
+- name: Install zip on server
+  become: True
+  yum: name=unzip state=installed
+
+- name: Decompress JDK 8
+  become: True
+  unarchive: >
+    src=jdk-8u77-linux-x64.tar.gz dest=/opt/
+
+- name: Decompress SonarQube
+  become: True
+  unarchive: >
+    src=sonarqube-5.5-RC1.zip 
+    dest=/opt/
+    owner="{{ sonarqube_user }}"
+    group="{{ sonarqube_group }}"    
+
+- name: Create service
+  become: True
+  template: src=sonarqube.service.j2 dest=/etc/systemd/system/sonarqube.service
+  register: service_created
+
+- name: Reload systemd
+  become: True
+  command: systemctl daemon-reload
+  when: service_created.changed
+
+- name: Configure SonarQube
+  become: True
+  become_user: "{{ sonarqube_user }}"
+  template: src="{{ item }}" dest=/opt/sonarqube-5.5-RC1/conf/
+  with_items:
+    - sonarqube-5.5/sonar.properties
+    - sonarqube-5.5/wrapper.conf
+  notify:
+    - restart sonarqube
+
+- name: Ensure that SonarQube has been started
+  become: True
+  service: name=sonarqube state=started enabled=true

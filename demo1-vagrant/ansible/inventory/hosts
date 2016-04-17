@@ -1,0 +1,9 @@
+[db]
+server2 ansible_user=vagrant
+
+[web]
+server1 ansible_user=vagrant
+
+[sonarqube-test]
+server1
+server2
